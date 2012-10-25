@@ -1,5 +1,3 @@
-BLABLIBLUB
-
 /*
  *
  * Module main: CG2 Aufgabe 1, Winter 2012/2013
